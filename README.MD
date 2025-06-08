@@ -4,6 +4,12 @@ A fast-paced, bug-smashing arcade game made with **Pygame**. Your mission? Swat 
 
 ---
 
+## 📸 Screenshot
+
+![Gameplay](assets/screenshot.png)
+
+---
+
 # 🎮 Gameplay
 
 - Control a flyswatter with arrow keys
