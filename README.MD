@@ -31,6 +31,8 @@ A fast-paced, bug-smashing arcade game made with **Pygame**. Your mission? Swat 
 2. Install Pygame using pip:
    pip install pygame
 
+---
+
 # 🧹 Future Ideas
 
 1. Add sound effects when a bug is swatted
