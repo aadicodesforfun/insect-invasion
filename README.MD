@@ -1,6 +1,6 @@
 # 🪳 Insect Invasion
 
-A fast-paced, bug-smashing arcade game made with **Pygame**. Your mission? Swat the cockroach before it escapes! The more you splat, the faster they come.
+A fast-paced, roach-smashing arcade game made with **Pygame**. Your mission? Swat the cockroach before it escapes! The more you splat, the faster they come.
 
 ---
 
@@ -12,30 +12,31 @@ A fast-paced, bug-smashing arcade game made with **Pygame**. Your mission? Swat 
 
 # 🎮 Gameplay
 
-- Control a flyswatter with arrow keys
+- Control a racket with arrow keys
 - Use **spacebar** to strike
 - Score a point every time you hit the bug
 - Bugs get faster with each level
-- Game over if a bug escapes!
+- Game over if a bug escapes(reaches the edge of the screen)!
 
 ---
 
 # 🕹️ Controls
 
-| Key        | Action                  |
-| ---------- | ----------------------- |
-| ↑ / ↓      | Move flyswatter up/down |
-| Spacebar   | Swat the bug            |
-| Enter      | Select menu options     |
-| Esc / Quit | Exit the game           |
+| Key      | Action                  |
+| -------- | ----------------------- |
+| ↑ / ↓    | Move the racket up/down |
+| Spacebar | Strike the bug          |
+| Enter    | Select menu options     |
 
 ---
 
 # 📦 How to Run
 
-1. Make sure Python is installed on your system.
+1. Make sure Python3 is installed on your system.
 2. Install Pygame using pip:
+   ```bash
    pip install pygame
+   ```
 
 ---
 
