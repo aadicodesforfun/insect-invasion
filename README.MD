@@ -4,7 +4,7 @@ A fast-paced, roach-smashing arcade game made with **Pygame**. Your mission? Swa
 
 ---
 
-## 📸 Screenshot
+# 📸 Screenshot
 
 ![Gameplay](assets/screenshot.png)
 
